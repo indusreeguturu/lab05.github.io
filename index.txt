@@ -46,7 +46,7 @@
       <tr>
         <th>Rotation period(hours)</th>
         <td>1407.6 hours</td>
-        <td>-5832.5 hours</td>
+        <td>-5830.5 hours</td>
         <td>23.9 hours</td>
         <td>24.6 hours</td>
       </tr>
