@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Planetary Fact Sheet</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <h1>Planets Factsheet</h1>
+    <table>
+      <tr>
+        <th></th>
+        <th>Mercury</th>
+        <th>Venus</th>
+        <th>Earth</th>
+        <th>Mars</th>
+      </tr>
+      <tr>
+        <th>Planets</th>
+        <td><img src="images/mercury.jpg" alt="picture of mercury"></td>
+        <td><img src="images/venus.jpg" alt="picture of venus"></td>
+        <td><img src="images/earth.jpg" alt="picture of earth"></td>
+        <td><img src="images/mars.jpg" alt="picture  of mars"></td>
+      </tr>
+      <tr>
+        <th>Mass (10<sup>24</sup> kg)</th>
+        <td>0.330</td>
+        <td>4.87</td>
+        <td>5.97</td>
+        <td>0.642</td>
+      </tr>
+      <tr>
+        <th>Diameter</th>
+        <td>4,879 kilometers</td>
+        <td>12104 kilimeters</td>
+        <td>12,756 kilometers</td>
+        <td>6792 kilometers</td>
+      </tr>
+      <tr>
+        <th>Escape velocity (km/sec)</th>
+        <td>4.3 (km/sec)</td>
+        <td>10.2 (km/sec)</td>
+        <td>11.3 (km/sec)</td>
+        <td>5.0 (km/sec)</td>
+      </tr>
+      <tr>
+        <th>Rotation period(hours)</th>
+        <td>1407.6 hours</td>
+        <td>-5832.5 hours</td>
+        <td>23.9 hours</td>
+        <td>24.6 hours</td>
+      </tr>
+      <tr>
+        <th>Orbital Velocity(km/s)</th>
+        <td>47.4 days</td>
+        <td>35.0 days</td>
+        <td>29.8 days</td>
+        <td>24.1 days</td>
+      </tr>
+      <tr>
+        <th>Mean Temperature</th>
+        <td>167 C</td>
+        <td>464 C</td>
+        <td>15 C</td>
+        <td>-65 C</td>
+      </tr>
+      <tr>
+        <th>Number of Moons</th>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>2</td>
+      </tr>
+      <tr>
+        <th>Ring System?</th>
+        <td>No</td>
+        <td>No</td>
+        <td>No</td>
+        <td>No</td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+
+
