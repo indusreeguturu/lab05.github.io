@@ -1,0 +1,23 @@
+body{
+	background-color: black;
+	background-image: url("../images/background.jpg");
+}
+h1{
+  font-family: FELIX TITLING;
+  font-size: 50px;
+  color: GREY;
+  text-align: center;
+  margin: 50px;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+td{
+  text-align: center;
+  table-layout: fixed;
+  height: 60px;
+  border-radius: 5px;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
